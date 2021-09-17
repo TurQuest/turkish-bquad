@@ -1,0 +1,2699 @@
+{
+    "data": [
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Pıhtılaşmada trombositler yapışkan kümeler hâlinde zarar gören bölgeye kısa sürede tutunup açıklığı kapatır buna ne ad verilir?",
+                            "id": 115788,
+                            "answers": [
+                                {
+                                    "answer_id": 177409,
+                                    "document_id": 213497,
+                                    "question_id": 115788,
+                                    "text": "trombosit tıkacı",
+                                    "answer_start": 113,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Doku sıvısında su ve madde miktarının artması nasıl adlandırılır?",
+                            "id": 115789,
+                            "answers": [
+                                {
+                                    "answer_id": 177410,
+                                    "document_id": 213497,
+                                    "question_id": 115789,
+                                    "text": "ödem",
+                                    "answer_start": 296,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": " Kasılma basıncının 140 mmHg, gevşeme basıncının 90 mmHg’den büyük olma durumuna ne denir?",
+                            "id": 115790,
+                            "answers": [
+                                {
+                                    "answer_id": 177411,
+                                    "document_id": 213497,
+                                    "question_id": 115790,
+                                    "text": "yüksek tansiyon",
+                                    "answer_start": 388,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kasılma basıncının 90 mmHg, gevşeme basıncının 60 mmHg’den küçük oluşu ne olarak adlandırılır?\n",
+                            "id": 115791,
+                            "answers": [
+                                {
+                                    "answer_id": 177412,
+                                    "document_id": 213497,
+                                    "question_id": 115791,
+                                    "text": "düşük tansiyon",
+                                    "answer_start": 488,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Pıhtılaşmada trombositler yapışkan kümeler hâlinde zarar gören bölgeye kısa sürede tutunup açıklığı kapatır buna trombosit tıkacı denir. Kılcal damarlardaki kan basıncının yüksek olması sonucu doku sıvısına daha çok su ve madde geçişi gerçekleşir. Doku sıvısında su ve madde miktarının artmasına ödem denir. Kasılma basıncının 140 mmHg, gevşeme basıncının 90 mmHg’den büyük olma durumuna yüksek tansiyon adı verilir. Kasılma basıncının 90 mmHg, gevşeme basıncının 60 mmHg’den küçük oluşu düşük tansiyon olarak adlandırılır.",
+                    "document_id": 213497
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Canlılar, metabolik faaliyetleri için gerekli olan enerjiyi nereden sağlarlar?",
+                            "id": 117275,
+                            "answers": [
+                                {
+                                    "answer_id": 179521,
+                                    "document_id": 230496,
+                                    "question_id": 117275,
+                                    "text": "lılar, Güneş enerjisini kullanarak besin üretir",
+                                    "answer_start": 143,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Canlılar, Güneş enerjisini kullanarak ne üretir?",
+                            "id": 117300,
+                            "answers": [
+                                {
+                                    "answer_id": 179551,
+                                    "document_id": 230496,
+                                    "question_id": 117300,
+                                    "text": "besin",
+                                    "answer_start": 178,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Canlılar, metabolik faaliyetleri için gerekli olan enerjiyi ürettikleri ya da dış ortamdan hazır aldıkları besinlerden sağlar. Fotosentetik canlılar, Güneş enerjisini kullanarak besin üretir. Besinlerdeki kimyasal enerji, doğrudan kullanılamaz. Canlılar, hücresel solunumla besinlerden elde ettikleri kimyasal enerjiyi ATP adı verilen özel bir molekülün yapısında kimyasal bağ enerjisi olarak tutar.",
+                    "document_id": 230496
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "DNA’nın bir ipliğinin üzerindeki kodonlara uygun olarak mRNA sentezlenmesine ne ad verilir?",
+                            "id": 117208,
+                            "answers": [
+                                {
+                                    "answer_id": 179450,
+                                    "document_id": 228994,
+                                    "question_id": 117208,
+                                    "text": "Transkripsiyon",
+                                    "answer_start": 0,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Transkripsiyon, DNA’nın bir ipliğinin üzerindeki kodonlara uygun olarak mRNA sentezlenmesidir. DNA üzerindeki genden transkripsiyonla sentezlenen mRNA, sentezlenecek proteinin amino asit dizilişini belirler. DNA üzerindeki gende sadece bir zincir, RNA nükleotit dizisinin sentezlenmesinde iş görür. Kalıp olarak kullanılan DNA zinciri, anlamlı zincir olarak ifade edilir. Anlamlı zincirin karşısında anti paralel uzanan DNA zinciri ise tamamlayıcı zincir olarak adlandırılır.",
+                    "document_id": 228994
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Tüm canlılar metabolik aktivitelerini devam ettirebilmek için neye ihtiyaç duyar?",
+                            "id": 116856,
+                            "answers": [
+                                {
+                                    "answer_id": 178843,
+                                    "document_id": 230450,
+                                    "question_id": 116856,
+                                    "text": "besin maddelerine",
+                                    "answer_start": 62,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "İnorganik maddeleri kullanarak kendi besinlerini üretebilen canlılara ne denir?",
+                            "id": 116857,
+                            "answers": [
+                                {
+                                    "answer_id": 178844,
+                                    "document_id": 230450,
+                                    "question_id": 116857,
+                                    "text": "Ototrof organizmalar",
+                                    "answer_start": 95,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Ototrof organizmalar hangi maddeleri kullanarak kendi besinlerini üretirler?",
+                            "id": 116859,
+                            "answers": [
+                                {
+                                    "answer_id": 178846,
+                                    "document_id": 230450,
+                                    "question_id": 116859,
+                                    "text": "inorganik",
+                                    "answer_start": 116,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Hangi canlılar kendi besinlerini üretemez?",
+                            "id": 116860,
+                            "answers": [
+                                {
+                                    "answer_id": 178847,
+                                    "document_id": 230450,
+                                    "question_id": 116860,
+                                    "text": "Mantar ve hayvan gibi canlılar",
+                                    "answer_start": 348,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Heterotrof canlılar, besin ihtiyaçlarını nasıl karşılarlar?",
+                            "id": 116861,
+                            "answers": [
+                                {
+                                    "answer_id": 178848,
+                                    "document_id": 230450,
+                                    "question_id": 116861,
+                                    "text": "diğer canlıları yiyerek",
+                                    "answer_start": 478,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Tüm canlılar metabolik aktivitelerini devam ettirebilmek için besin maddelerine ihtiyaç duyar. Ototrof organizmalar inorganik maddeleri kullanarak kendi besinlerini üretebilen canlılardır. Örneğin bitkiler; su, mineral, karbondioksit gibi inorganik maddeleri kullanarak güneş enerjisi yardımıyla ihtiyaç duydukları organik besinleri üretebilirler. Mantar ve hayvan gibi canlılar ise kendi besinlerini üretemezler. Heterotrof olarak adlandırılan bu canlılar, besin ihtiyaçlarını diğer canlıları yiyerek karşılarlar.",
+                    "document_id": 230450
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Bileşik enzimlerin protein olan kısmına ne denir?",
+                            "id": 117202,
+                            "answers": [
+                                {
+                                    "answer_id": 179444,
+                                    "document_id": 230541,
+                                    "question_id": 117202,
+                                    "text": "apoenzim",
+                                    "answer_start": 40,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Bileşik enzimlerin  yardımcı kısmına ne ad verilir?",
+                            "id": 117203,
+                            "answers": [
+                                {
+                                    "answer_id": 179445,
+                                    "document_id": 230541,
+                                    "question_id": 117203,
+                                    "text": "Kofaktör",
+                                    "answer_start": 155,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Organik yapılı kofaktör, nasıl adlandırılır?",
+                            "id": 117204,
+                            "answers": [
+                                {
+                                    "answer_id": 179446,
+                                    "document_id": 230541,
+                                    "question_id": 117204,
+                                    "text": "koenzim",
+                                    "answer_start": 233,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Yardımcı kısım ile birleşerek aktif hâle geçen apoenzime ne denir?",
+                            "id": 117205,
+                            "answers": [
+                                {
+                                    "answer_id": 179447,
+                                    "document_id": 230541,
+                                    "question_id": 117205,
+                                    "text": "holoenzim",
+                                    "answer_start": 406,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Bileşik enzimlerin protein olan kısmına apoenzim denir. Yardımcı kısmına kofaktör adı verilir. Apoenzim inaktif olup yardımcı kısım olmadan görev yapamaz. Kofaktör inorganik ya da organik yapıda olabilir. Kofaktör organik yapılı ise koenzim olarak adlandırılır. B grubu vitaminler, K+, Ca2+, Mg2+ gibi metal iyonları kofaktörlere örnek verilebilir. Yardımcı kısım ile birleşerek aktif hâle geçen apoenzime holoenzim denir.",
+                    "document_id": 230541
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Yüksek ve düşük sıcaklık, kuvvetli asit ve bazlar, yoğun tuz, yüksek basınç, radyasyon gibi etkenler proteinlerin yapısını bozarsa bu ne olarak adlandırılır?",
+                            "id": 117226,
+                            "answers": [
+                                {
+                                    "answer_id": 179468,
+                                    "document_id": 230542,
+                                    "question_id": 117226,
+                                    "text": "denatürasyon",
+                                    "answer_start": 134,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Denatüre olmuş bazı proteinler eski hâline dönebiliyorsa buna ne denir?",
+                            "id": 117227,
+                            "answers": [
+                                {
+                                    "answer_id": 179469,
+                                    "document_id": 230542,
+                                    "question_id": 117227,
+                                    "text": "renatürasyon",
+                                    "answer_start": 230,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Enzimin çalışma hızını artıran madde veya faktörler nasıl adlandırılır?",
+                            "id": 117230,
+                            "answers": [
+                                {
+                                    "answer_id": 179472,
+                                    "document_id": 230542,
+                                    "question_id": 117230,
+                                    "text": "aktivatör",
+                                    "answer_start": 374,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Enzimlerin en iyi çalıştığı sıcaklık değerine ne sıcaklığı denir?",
+                            "id": 117232,
+                            "answers": [
+                                {
+                                    "answer_id": 179474,
+                                    "document_id": 230542,
+                                    "question_id": 117232,
+                                    "text": "optimum",
+                                    "answer_start": 296,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Enzimlere bağlanarak veya enzimi kararsız hâle getirerek etkisizleştiren madde veya faktörler nasıl adlandırılır?",
+                            "id": 117233,
+                            "answers": [
+                                {
+                                    "answer_id": 179475,
+                                    "document_id": 230542,
+                                    "question_id": 117233,
+                                    "text": "inhibitör",
+                                    "answer_start": 486,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Yüksek ve düşük sıcaklık, kuvvetli asit ve bazlar, yoğun tuz, yüksek basınç, radyasyon gibi etkenler proteinlerin yapısını bozarsa bu denatürasyon olarak adlandırılır. Denatüre olmuş bazı proteinler eski hâline dönebiliyorsa buna renatürasyon denir. Enzimlerin en iyi çalıştığı sıcaklık değerine optimum sıcaklığı denir. Enzimin çalışma hızını artıran madde veya faktörlere aktivatör denir. Enzimlere bağlanarak veya enzimi kararsız hâle getirerek etkisizleştiren madde veya faktörlere inhibitör denir.",
+                    "document_id": 230542
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Önceki çalışmalar sonucu ortaya çıkan bilgileri de kullanarak adenin-timin, guanin-sitozin eşleşmesinin olması gerektiğini kimler belirtmiştir?",
+                            "id": 116798,
+                            "answers": [
+                                {
+                                    "answer_id": 178784,
+                                    "document_id": 228975,
+                                    "question_id": 116798,
+                                    "text": "James Watson ve Francis Crick",
+                                    "answer_start": 0,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Çalışmalarından dolayı Watson ve Crick hangi yılda ödül almışlardır?",
+                            "id": 117249,
+                            "answers": [
+                                {
+                                    "answer_id": 179491,
+                                    "document_id": 228975,
+                                    "question_id": 117249,
+                                    "text": "1962",
+                                    "answer_start": 433,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Çalışmalarından dolayı 1962 yılında kimler Nobel Ödülü almışlardır?",
+                            "id": 119130,
+                            "answers": [
+                                {
+                                    "answer_id": 181945,
+                                    "document_id": 228975,
+                                    "question_id": 119130,
+                                    "text": " Watson ve Crick",
+                                    "answer_start": 415,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "James Watson ve Francis Crick, önceki çalışmalar sonucu ortaya çıkan bilgileri de kullanarak adenin-timin, guanin-sitozin eşleşmesinin olması gerektiğini belirttiler (Görsel 1.6). Azotlu bazların sarmalın iç kısmında, şeker ve fosfat gruplarının ise sarmalın dış kısmında bulunduğu DNA çift sarmal modelini tasarlayarak bu DNA modelini Nature (Neyçır) Dergisinde bir makalede yayımladılar. Bu çalışmalarından dolayı Watson ve Crick, 1962 yılında Nobel Ödülü aldılar.",
+                    "document_id": 228975
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Kas aktivitesinin aşırı artması durumunda laktik asit miktarı artar ve laktik asit nerede birikir?",
+                            "id": 118215,
+                            "answers": [
+                                {
+                                    "answer_id": 181468,
+                                    "document_id": 230529,
+                                    "question_id": 118215,
+                                    "text": "kaslarda",
+                                    "answer_start": 89,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Hücrelerde biriken laktik asit, hangi yapı ile beyne taşınır?",
+                            "id": 118222,
+                            "answers": [
+                                {
+                                    "answer_id": 181475,
+                                    "document_id": 230529,
+                                    "question_id": 118222,
+                                    "text": "kan damarlar",
+                                    "answer_start": 139,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Karaciğer hücreleri, laktik asidi özel biyokimyasal tepkimelerle nelere dönüştürür? \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "id": 118231,
+                            "answers": [
+                                {
+                                    "answer_id": 181484,
+                                    "document_id": 230529,
+                                    "question_id": 118231,
+                                    "text": "pirüvik asit ve glikoza",
+                                    "answer_start": 489,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Pirüvik asit, oksijenli solunumda tüketilirken; glikozların fazlasının, karaciğerde depolanmasına ne ad verilir?",
+                            "id": 118234,
+                            "answers": [
+                                {
+                                    "answer_id": 181487,
+                                    "document_id": 230529,
+                                    "question_id": 118234,
+                                    "text": "glikojen",
+                                    "answer_start": 606,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Ancak kas aktivitesinin aşırı artması durumunda laktik asit miktarı artar ve laktik asit kaslarda birikir. Hücrelerde biriken laktik asit, kan damarları ile beyne taşınır. Laktik asit; beyindeki ağrı, uyku ve yorgunluk merkezini uyarır. Bu durum çok yorulduğumuzda uykumuzun neden geldiğini ya da vücudumuzda neden ağrılar oluştuğunu da açıklar. Vücut dinlenirken yeterli oksijen sağlanırsa laktik asit, karaciğere taşınır. Karaciğer hücreleri, laktik asidi özel biyokimyasal tepkimelerle pirüvik asit ve glikoza dönüştürür. Pirüvik asit, oksijenli solunumda tüketilirken; glikozların fazlası, karaciğerde glikojen olarak depolanır (Görsel 2.26).",
+                    "document_id": 230529
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Sağ karıncık ile sağ kulakçık arasında hangi kapakçık bulunur?",
+                            "id": 115432,
+                            "answers": [
+                                {
+                                    "answer_id": 176980,
+                                    "document_id": 213487,
+                                    "question_id": 115432,
+                                    "text": "triküspit",
+                                    "answer_start": 39,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Sol karıncık ile sol kulakçık arasında hangi kapakçık vardır?",
+                            "id": 115433,
+                            "answers": [
+                                {
+                                    "answer_id": 176981,
+                                    "document_id": 213487,
+                                    "question_id": 115433,
+                                    "text": "biküspit",
+                                    "answer_start": 110,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "B lenfositlerinin antijenlere karşı antikor adı verilen özel proteinler üretip bunları plazmaya vermesi olayına ne denir?",
+                            "id": 115440,
+                            "answers": [
+                                {
+                                    "answer_id": 176988,
+                                    "document_id": 213487,
+                                    "question_id": 115440,
+                                    "text": "humoral bağışıklık",
+                                    "answer_start": 512,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Koroner damarların tıkanması ya da daralması sonucu kalbe yeterince besin ve oksijen ulaşamamasıyla oluşan rahatsızlığa ne denir?",
+                            "id": 115439,
+                            "answers": [
+                                {
+                                    "answer_id": 176987,
+                                    "document_id": 213487,
+                                    "question_id": 115439,
+                                    "text": "Kalp Krizi ",
+                                    "answer_start": 263,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Vücutun aynı hastalık etkeni ile tekrar karşılaşması sonucu hafıza hücrelerinin hızlı ve daha güçlü bir bağışıklık tepkimesi oluşturmasına ne ad verilir?",
+                            "id": 115442,
+                            "answers": [
+                                {
+                                    "answer_id": 176990,
+                                    "document_id": 213487,
+                                    "question_id": 115442,
+                                    "text": "ikincil yanıt",
+                                    "answer_start": 665,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Triküspit kapakçık nelerin arasında bulunur?",
+                            "id": 121188,
+                            "answers": [
+                                {
+                                    "answer_id": 184677,
+                                    "document_id": 213487,
+                                    "question_id": 121188,
+                                    "text": "Sağ karıncık ile sağ kulakçık",
+                                    "answer_start": 0,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Biküspit kapakçık nelerin arasında bulunur? ",
+                            "id": 121189,
+                            "answers": [
+                                {
+                                    "answer_id": 184678,
+                                    "document_id": 213487,
+                                    "question_id": 121189,
+                                    "text": "Sol karıncık ile sol kulakçık",
+                                    "answer_start": 67,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Yarım ay kapakçıkları nerede bulunur?",
+                            "id": 121190,
+                            "answers": [
+                                {
+                                    "answer_id": 184679,
+                                    "document_id": 213487,
+                                    "question_id": 121190,
+                                    "text": "Sağ karıncıktan çıkan akciğer atardamarı ile sol karıncıktan çıkan aortun kalpten çıktığı yerde",
+                                    "answer_start": 136,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Hangi lenfositler antijenlere karşı antikor adı verilen özel proteinler üretir?",
+                            "id": 121310,
+                            "answers": [
+                                {
+                                    "answer_id": 184799,
+                                    "document_id": 213487,
+                                    "question_id": 121310,
+                                    "text": "B",
+                                    "answer_start": 401,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Sağ karıncık ile sağ kulakçık arasında triküspit kapakçık bulunur. Sol karıncık ile sol kulakçık arasında ise biküspit kapakçık vardır. Sağ karıncıktan çıkan akciğer atardamarı ile sol karıncıktan çıkan aortun kalpten çıktığı yerde yarım ay kapakçıkları bulunur. Kalp Krizi Koroner damarların tıkanması ya da daralması sonucu kalbe yeterince besin ve oksijen ulaşamamasıyla oluşan bir rahatsızlıktır. B lenfositleri antijenlere karşı antikor adı verilen özel proteinler üretir ve bunları plazmaya verir bu olaya humoral bağışıklık denir. . Vücut aynı hastalık etkeni ile tekrar karşılaşırsa hafıza hücreleri hızlı ve daha güçlü bir bağışıklık tepkimesi oluşur buna ikincil yanıt denir.",
+                    "document_id": 213487
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Su moleküllerini bir arada tutan hidrojen bağlarının etkisiyle ne kuvveti oluşur?",
+                            "id": 117135,
+                            "answers": [
+                                {
+                                    "answer_id": 179209,
+                                    "document_id": 230539,
+                                    "question_id": 117135,
+                                    "text": "kohezyon kuvveti",
+                                    "answer_start": 63,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Suyun başka moleküllere tutunmasını sağlayan kuvvet hangisidir?",
+                            "id": 117136,
+                            "answers": [
+                                {
+                                    "answer_id": 179210,
+                                    "document_id": 230539,
+                                    "question_id": 117136,
+                                    "text": "adhezyon kuvveti",
+                                    "answer_start": 189,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Su moleküllerini bir arada tutan hidrojen bağlarının etkisiyle kohezyon kuvveti oluşur. Bu sayede su molekülleri birbirine bağlı kalır. Suyun başka moleküllere tutunmasını sağlayan kuvvete adhezyon kuvveti denir. Yapraklarda terleme sonucunda oluşan emme kuvveti ve kohezyon-adhezyon kuvvetleri sayesinde su, bitkilerin köklerinden yapraklarına kadar kesintisiz bir sütun şeklinde yer çekimine zıt yönde taşınır.",
+                    "document_id": 230539
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Hangi kodonlar durdurma kodonu olarak ifade edilir?",
+                            "id": 117248,
+                            "answers": [
+                                {
+                                    "answer_id": 179490,
+                                    "document_id": 228996,
+                                    "question_id": 117248,
+                                    "text": "UAA, UAG, UGA",
+                                    "answer_start": 135,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Protein sentezi hangi kodon ile başlar?",
+                            "id": 117247,
+                            "answers": [
+                                {
+                                    "answer_id": 179489,
+                                    "document_id": 228996,
+                                    "question_id": 117247,
+                                    "text": "AUG",
+                                    "answer_start": 68,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "AUG kodonuna ne ad verilir?",
+                            "id": 121250,
+                            "answers": [
+                                {
+                                    "answer_id": 184735,
+                                    "document_id": 228996,
+                                    "question_id": 121250,
+                                    "text": "başlama kodonu",
+                                    "answer_start": 107,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Hangi kodonlar durdurma kodonu olarak ifade edilir?",
+                            "id": 121251,
+                            "answers": [
+                                {
+                                    "answer_id": 184736,
+                                    "document_id": 228996,
+                                    "question_id": 121251,
+                                    "text": "durdurma kodonu",
+                                    "answer_start": 153,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Hangi amino asidini AUG kodonu şifreler?",
+                            "id": 121252,
+                            "answers": [
+                                {
+                                    "answer_id": 184737,
+                                    "document_id": 228996,
+                                    "question_id": 121252,
+                                    "text": "metiyonin",
+                                    "answer_start": 30,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Protein sentezi, aynı zamanda metiyonin amino asidini de şifreleyen AUG kodonu ile başladığından bu kodona başlama kodonu adı verilir. UAA, UAG, UGA ise durdurma kodonu olarak ifade edilir. mRNA’daki kodonlar ve şifreledikleri amino asitler aşağıdaki tabloda gösterilmiştir",
+                    "document_id": 228996
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "1930’larda fotosentezde hidrojen kaynağı olarak suyun kullanıldığını ispatlayan kimdir?",
+                            "id": 117641,
+                            "answers": [
+                                {
+                                    "answer_id": 180742,
+                                    "document_id": 230502,
+                                    "question_id": 117641,
+                                    "text": "C.B.Van Nie",
+                                    "answer_start": 0,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "C.B.Van Niel, 1930’larda fotosentezde hidrojen kaynağı olarak suyun kullanıldığını ispatlamıştır. Işık enerjisi ile parçalanan sudan açığa çıkan hidrojenlerle karbondioksitin birleşerek şekerleri oluşturduğunu savunmuştur.",
+                    "document_id": 230502
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Işık enerjisi yardımıyla ATP sentezlenmesine ne denir?",
+                            "id": 117255,
+                            "answers": [
+                                {
+                                    "answer_id": 179497,
+                                    "document_id": 230515,
+                                    "question_id": 117255,
+                                    "text": "fotofosforilasyon",
+                                    "answer_start": 324,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "ATP, hangi tür reaksiyonlar sırasında üretilir? ",
+                            "id": 117256,
+                            "answers": [
+                                {
+                                    "answer_id": 179498,
+                                    "document_id": 230515,
+                                    "question_id": 117256,
+                                    "text": "Işığa bağımlı",
+                                    "answer_start": 349,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Klorofilden ayrılan elektronlar, yükseltgenme ve indirgenme kurallarına göre ETS’de bulunan bir molekülden diğerine aktarılır. Bu aktarım sırasında elektronlardaki enerjinin bir kısmı ile ATP sentezlenirken bir kısmı da ısı enerjisi şeklinde sistemden uzaklaştırılır. Bu şekilde ışık enerjisi yardımıyla ATP sentezlenmesine fotofosforilasyon denir. Işığa bağımlı reaksiyonlar sırasında üretilen NADPH ve ATP ışıktan bağımsız reaksiyonlara aktarılarak organik madde sentezinde kullanılır. Bu yüzden fotofosforilasyonla üretilen ATP, sadece fotosentezde organik madde sentezi için tüketilir (Görsel 2.10).",
+                    "document_id": 230515
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Bozulmuş alanlarda uzun zaman içinde türlerin aşamalı olarak birbirinin yerini almalarına ne denir?",
+                            "id": 118385,
+                            "answers": [
+                                {
+                                    "answer_id": 181641,
+                                    "document_id": 232267,
+                                    "question_id": 118385,
+                                    "text": "süksesyon",
+                                    "answer_start": 90,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Henüz üzerinde yaşamın bulunmadığı alanlarda, volkanik adalar ya da buzul taşların üzerinde toprak oluşumuyla başlayan sıralı değişim  ne olarak adlandırılır?",
+                            "id": 118386,
+                            "answers": [
+                                {
+                                    "answer_id": 181642,
+                                    "document_id": 232267,
+                                    "question_id": 118386,
+                                    "text": "birincil süksesyon",
+                                    "answer_start": 326,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kaynak paylaşımı, türlerin bir arada yaşamasına izin verse de ekolojik nişin değişmesi canlılarda davranış omünitede en bol bulunan ya da toplamda en yüksek biyokütleye sahip türe bve morfolojik değişimlere yol açmasına ne adı verilir?",
+                            "id": 118387,
+                            "answers": [
+                                {
+                                    "answer_id": 181643,
+                                    "document_id": 232267,
+                                    "question_id": 118387,
+                                    "text": "karakter kayması",
+                                    "answer_start": 512,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Bozulmuş alanlarda uzun zaman içinde türlerin aşamalı olarak birbirinin yerini almalarına süksesyon denir. Değişim sırasında komünitedeki tür çeşitliliği, yoğunluğu ve baskın tür farklılaşır. Henüz üzerinde yaşamın bulunmadığı alanlarda, volkanik adalar ya da buzul taşların üzerinde toprak oluşumuyla başlayan sıralı değişim birincil süksesyon olarak adlandırılır. Kaynak paylaşımı, türlerin bir arada yaşamasına izin verse de ekolojik nişin değişmesi canlılarda davranış ve morfolojik değişimlere yol açmasına karakter kayması adı verilir.",
+                    "document_id": 232267
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Uzaktaki ya da yakındaki cisimlerin görüntüsünün retina üzerine düşürülmesi için göz merceğinin kalınlığının ayarlanmasına ne denir?",
+                            "id": 115493,
+                            "answers": [
+                                {
+                                    "answer_id": 177041,
+                                    "document_id": 213491,
+                                    "question_id": 115493,
+                                    "text": "göz uyumu",
+                                    "answer_start": 123,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Mercek ile ağ tabaka arasındaki boşluk nasıl adlandırılır?",
+                            "id": 115514,
+                            "answers": [
+                                {
+                                    "answer_id": 177062,
+                                    "document_id": 213491,
+                                    "question_id": 115514,
+                                    "text": "karanlık oda",
+                                    "answer_start": 296,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Gözde saydam tabaka ile iris arasındaki boşluğa ne ad verilir?",
+                            "id": 115540,
+                            "answers": [
+                                {
+                                    "answer_id": 177088,
+                                    "document_id": 213491,
+                                    "question_id": 115540,
+                                    "text": "ön oda",
+                                    "answer_start": 188,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Mercek ile ağ tabaka arasındaki boşluk nasıl adlandırılır?",
+                            "id": 115623,
+                            "answers": [
+                                {
+                                    "answer_id": 177171,
+                                    "document_id": 213491,
+                                    "question_id": 115623,
+                                    "text": "karanlık oda",
+                                    "answer_start": 296,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Gözde iris ile göz merceği arasındaki boşluğa ne denir?",
+                            "id": 121234,
+                            "answers": [
+                                {
+                                    "answer_id": 184717,
+                                    "document_id": 213491,
+                                    "question_id": 121234,
+                                    "text": "arka oda",
+                                    "answer_start": 240,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Koni hücrelerinden sorumlu genlerde meydana gelen bozukluklar sonucu koni hücrelerinden biri ya da birkaçının bulunmamasına ne denir?",
+                            "id": 121236,
+                            "answers": [
+                                {
+                                    "answer_id": 184719,
+                                    "document_id": 213491,
+                                    "question_id": 121236,
+                                    "text": "renk körlüğü",
+                                    "answer_start": 440,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Hangi hücrelerin hiç bulunmamasına tam renk körlüğü denir?",
+                            "id": 121237,
+                            "answers": [
+                                {
+                                    "answer_id": 184720,
+                                    "document_id": 213491,
+                                    "question_id": 121237,
+                                    "text": "Koni",
+                                    "answer_start": 460,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Göz uyumu uzaktaki ya da yakındaki cisimlerin görüntüsünün nereye düşürülmesi için göz merceğinin kalınlığının ayarlanmasına denir?",
+                            "id": 121238,
+                            "answers": [
+                                {
+                                    "answer_id": 184721,
+                                    "document_id": 213491,
+                                    "question_id": 121238,
+                                    "text": "retina üzerine",
+                                    "answer_start": 49,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Neredeki boşluğa arka oda denir?",
+                            "id": 121239,
+                            "answers": [
+                                {
+                                    "answer_id": 184722,
+                                    "document_id": 213491,
+                                    "question_id": 121239,
+                                    "text": "iris ile göz merceği arasındaki",
+                                    "answer_start": 196,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Gözde neredeki boşluğa ön oda denir?",
+                            "id": 121241,
+                            "answers": [
+                                {
+                                    "answer_id": 184724,
+                                    "document_id": 213491,
+                                    "question_id": 121241,
+                                    "text": "saydam tabaka ile iris arasındaki",
+                                    "answer_start": 146,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Uzaktaki ya da yakındaki cisimlerin görüntüsünün retina üzerine düşürülmesi için göz merceğinin kalınlığının ayarlanmasına göz uyumu denir. Gözde saydam tabaka ile iris arasındaki boşluğa ön oda, iris ile göz merceği arasındaki boşluğa ise arka oda denir. Mercek ile ağ tabaka arasındaki boşluğa karanlık oda denir. Koni hücrelerinden sorumlu genlerde meydana gelen bozukluklar sonucu koni hücrelerinden biri ya da birkaçının bulunmamasına renk körlüğü denir. Koni hücrelerinin hiç bulunmamasına tam renk körlüğü denir.\n",
+                    "document_id": 213491
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Ne tür tepkimelerde su kullanılır?",
+                            "id": 117317,
+                            "answers": [
+                                {
+                                    "answer_id": 179674,
+                                    "document_id": 230614,
+                                    "question_id": 117317,
+                                    "text": "Sindirim",
+                                    "answer_start": 205,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Bitkiler, ihtiyaç duyduğu maddeleri suda çözünmüş olarak nereden alır?",
+                            "id": 117318,
+                            "answers": [
+                                {
+                                    "answer_id": 179714,
+                                    "document_id": 230614,
+                                    "question_id": 117318,
+                                    "text": "topraktan",
+                                    "answer_start": 299,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Hücrelerin ihtiyaç duyduğu maddelerin taşınması ve hücrelerde oluşan metabolik atıkların uzaklaştırılması neyin varlığı ile mümkündür?",
+                            "id": 117319,
+                            "answers": [
+                                {
+                                    "answer_id": 179716,
+                                    "document_id": 230614,
+                                    "question_id": 117319,
+                                    "text": "suyun",
+                                    "answer_start": 421,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Su, fiziksel ve kimyasal özellikleri sebebiyle canlılar için vazgeçilmez bir maddedir. Su iyi bir çözücü olduğundan biyolojik sistemlerdeki tepkimelerin çoğu, hücre içindeki sulu çözeltilerde gerçekleşir. Sindirim tepkimesinde su kullanılır. Bitkiler, ihtiyaç duyduğu maddeleri suda çözünmüş olarak topraktan alır. Hücrelerin ihtiyaç duyduğu maddelerin taşınması ve hücrelerde oluşan metabolik atıkların uzaklaştırılması suyun varlığı ile mümkündür. Ayrıca suyun donmasıyla oluşan buz, yoğunluğu daha az olduğundan su yüzeyinde kalarak daha alt tabakalardaki suyun soğuk hava ile temasını önler, suda yaşayan canlıların donmadan yaşamlarına devam etmelerine olanak sağlar.",
+                    "document_id": 230614
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Glikozun oksijen kullanılmadan yıkılması sırasında ETS yardımıyla ATP üretilmesi nasıl adlandırılır?",
+                            "id": 117209,
+                            "answers": [
+                                {
+                                    "answer_id": 179451,
+                                    "document_id": 230525,
+                                    "question_id": 117209,
+                                    "text": "oksijensiz solunum",
+                                    "answer_start": 83,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Glikozun oksijen kullanılmadan yıkılması sırasında ETS yardımıyla ATP üretilmesine oksijensiz solunum denir. Oksijensiz solunumda son elektron alıcısı, O2 dışında bir inorganik moleküldür. Oksijensiz solunumda ETS’deki son elektron alıcısı olan inorganik maddelerin elektron çekim güçleri zayıftır. Bu nedenle oksijensiz solunumda üretilen ATP miktarı azdır.",
+                    "document_id": 230525
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Yenilenme gücü yüksek olan, vücut içinde ve uygun koşullar sağlanırsa laboratuvar ortamında sürekli bölünebilen ve birçok hücre tipine dönüşebilen farklılaşmamış hücrelere ne ad verilir?",
+                            "id": 116536,
+                            "answers": [
+                                {
+                                    "answer_id": 178520,
+                                    "document_id": 229006,
+                                    "question_id": 116536,
+                                    "text": "Kök hücreler",
+                                    "answer_start": 88,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Embriyo, göbek kordonu ve yetişkin bireylerden elde edilebilen hücrelere ne denir?",
+                            "id": 119137,
+                            "answers": [
+                                {
+                                    "answer_id": 181956,
+                                    "document_id": 229006,
+                                    "question_id": 119137,
+                                    "text": "Kök hücreler",
+                                    "answer_start": 277,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Son yıllarda bilim dünyasında kök hücrelerle yapılan çalışmalar ilgi ile izlenmektedir. Kök hücreler; yenilenme gücü yüksek olan, vücut içinde ve uygun koşullar sağlanırsa laboratuvar ortamında sürekli bölünebilen ve birçok hücre tipine dönüşebilen farklılaşmamış hücrelerdir. Kök hücreler; embriyo, göbek kordonu ve yetişkin bireylerden elde edilebilir. Embriyonik kök hücrelerin kendilerini yenileme ve diğer doku hücrelerine dönüşme yetenekleri çok yüksektir. Embriyonun blastula evresinde elde edilen embriyonik kök hücreler, uygun kültür ortamında geliştirilerek farklı hücre tipleri oluşturabilir (Görsel 1.44). Bu tip hücrelerin ilerleyen zamanlarda doku ve organ üretiminde kullanılabileceği öngörülmektedir. Bu yöntemle bir bireyden elde edilen kök hücrelerle başka bireylerdeki yıpranmış doku ve organların onarımı veya bazı hastalıkların tedavisi de sağlanabilmektedir. ",
+                    "document_id": 229006
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Genel olarak kandaki alyuvar sayısının azlığı ne olarak adlandırılır?\n\n",
+                            "id": 115862,
+                            "answers": [
+                                {
+                                    "answer_id": 177607,
+                                    "document_id": 213496,
+                                    "question_id": 115862,
+                                    "text": "anemi",
+                                    "answer_start": 48,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kan kanseri de denilen  kandaki akyuvar sayısının zarar verici şekilde artmasına ne denir?",
+                            "id": 115863,
+                            "answers": [
+                                {
+                                    "answer_id": 177608,
+                                    "document_id": 213496,
+                                    "question_id": 115863,
+                                    "text": "lösemi",
+                                    "answer_start": 85,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": " T lenfositlerin rol aldığı bağışıklık nasıl adlandırılır?",
+                            "id": 115867,
+                            "answers": [
+                                {
+                                    "answer_id": 177612,
+                                    "document_id": 213496,
+                                    "question_id": 115867,
+                                    "text": " hücresel bağışıklık",
+                                    "answer_start": 466,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kan plazmasında inaktif hâlde bulunan çok çeşitli proteinlerden oluşmuş tamamlayıcı sisteme ne ad verilir?",
+                            "id": 115865,
+                            "answers": [
+                                {
+                                    "answer_id": 177610,
+                                    "document_id": 213496,
+                                    "question_id": 115865,
+                                    "text": "Kompleman Sistem",
+                                    "answer_start": 151,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Genel olarak kandaki alyuvar sayısının azlığına anemi denir.  Kan kanseri de denilen lösemi kandaki akyuvar sayısının zarar verici şekilde artmasıdır. Kompleman Sistem kan plazmasında inaktif hâlde bulunan çok çeşitli proteinlerden oluşmuş tamamlayıcı sistemdir. B ve T lenfositleri tarafından oluşturulan bağışıklığa kazanılmış bağışıklık denir. Antikorların antijenleri etkisiz hâle getirdiği bu tepkiye birincil yanıt denir. T lenfositlerin rol aldığı bağışıklığa hücresel bağışıklık denir.\n",
+                    "document_id": 213496
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Canlılarda gerçekleşen tüm metabolik olayları denetleyen, genetik özelliklerin kuşaktan kuşağa aktarılmasını sağlayan ve canlıları birbirinden farklı kılan organik moleküllere ne denir?",
+                            "id": 116116,
+                            "answers": [
+                                {
+                                    "answer_id": 177861,
+                                    "document_id": 228973,
+                                    "question_id": 116116,
+                                    "text": "nükleik asitler",
+                                    "answer_start": 176,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Çift zincirli ve sarmal yapıda olan, kalıtımda görev alan nükleik asit çeşidine ne denir?",
+                            "id": 116117,
+                            "answers": [
+                                {
+                                    "answer_id": 177862,
+                                    "document_id": 228973,
+                                    "question_id": 116117,
+                                    "text": "DNA (deoksiribonükleikasit)",
+                                    "answer_start": 279,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Tek zincirli olan ve protein sentezinde görev alan nükleik asit çeşidine ne denir?",
+                            "id": 116118,
+                            "answers": [
+                                {
+                                    "answer_id": 177863,
+                                    "document_id": 228973,
+                                    "question_id": 116118,
+                                    "text": "RNA (ribonükleikasit)",
+                                    "answer_start": 409,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Nerede görev alan nükleik asit çeşidine DNA (deoksiribonükleikasit) adı verilir?",
+                            "id": 121281,
+                            "answers": [
+                                {
+                                    "answer_id": 184768,
+                                    "document_id": 228973,
+                                    "question_id": 121281,
+                                    "text": "kalıtımda",
+                                    "answer_start": 236,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Nerede görev alan nükleik asit çeşidine de RNA (ribonükleikasit) adı verilir?",
+                            "id": 121282,
+                            "answers": [
+                                {
+                                    "answer_id": 184769,
+                                    "document_id": 228973,
+                                    "question_id": 121282,
+                                    "text": "protein sentezinde",
+                                    "answer_start": 354,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Canlılarda gerçekleşen tüm metabolik olayları denetleyen, genetik özelliklerin kuşaktan kuşağa aktarılmasını sağlayan ve canlıları birbirinden farklı kılan organik moleküllere nükleik asitler denir. Çift zincirli ve sarmal yapıda olan, kalıtımda görev alan nükleik asit çeşidine DNA (deoksiribonükleikasit) adı verilir (Görsel 1.7). Tek zincirli olan ve protein sentezinde görev alan nükleik asit çeşidine de RNA (ribonükleikasit) adı verilir.",
+                    "document_id": 228973
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Ökaryot bir hücrenin kromozomunu oluşturan DNA ve protein kompleksine ne denir?",
+                            "id": 117320,
+                            "answers": [
+                                {
+                                    "answer_id": 179741,
+                                    "document_id": 230640,
+                                    "question_id": 117320,
+                                    "text": "kromatin",
+                                    "answer_start": 70,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Hücre bölünmeden önce ne eşlenir?",
+                            "id": 117321,
+                            "answers": [
+                                {
+                                    "answer_id": 179744,
+                                    "document_id": 230640,
+                                    "question_id": 117321,
+                                    "text": "kromotinler",
+                                    "answer_start": 119,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Bölünme sırasında kromatin iplikler kısalıp kalınlaşarak özel katlanmalar sonucu hangi yapıyı oluşturur?",
+                            "id": 117322,
+                            "answers": [
+                                {
+                                    "answer_id": 179748,
+                                    "document_id": 230640,
+                                    "question_id": 117322,
+                                    "text": "kromozom",
+                                    "answer_start": 243,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Ökaryot bir hücrenin kromozomunu oluşturan DNA ve protein kompleksine kromatin denir. İnce, uzun iplikler halinde olan kromotinler hücre bölünmeden önce eşlenir. Bölünme sırasında kromatin iplikler kısalıp kalınlaşarak özel katlanmalar sonucu kromozom adını verdiğimiz yapıyı oluşturur. Kromozomların sayısı ve şekilleri her canlı türü için bellidir ve kural olarak sabittir.",
+                    "document_id": 230640
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Bir coğrafi bölgenin yenilenebilir doğal kaynakları üretme gücü nasıl adlandırılır?",
+                            "id": 117470,
+                            "answers": [
+                                {
+                                    "answer_id": 180096,
+                                    "document_id": 230637,
+                                    "question_id": 117470,
+                                    "text": "biyolojik kapasite",
+                                    "answer_start": 210,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Topluluk tarafından kullanılan, her mal ve hizmetin üretilmesi ve tüketilmesi için gereken toplam tatlı su hacmine ne denir?",
+                            "id": 117474,
+                            "answers": [
+                                {
+                                    "answer_id": 180100,
+                                    "document_id": 230637,
+                                    "question_id": 117474,
+                                    "text": "su ayak izi",
+                                    "answer_start": 749,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Bir coğrafi bölgede sağlanan biyolojik kapasitenin kullanımı ne olarak adlandırılmaktadır?",
+                            "id": 117473,
+                            "answers": [
+                                {
+                                    "answer_id": 180099,
+                                    "document_id": 230637,
+                                    "question_id": 117473,
+                                    "text": "üretimin ekolojik ayak izi",
+                                    "answer_start": 589,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Bir topluluk tarafından tüketilen ürünlerin üretimi için kullanılan yenilenebilir doğal kaynaklara ne ad verilir?",
+                            "id": 117472,
+                            "answers": [
+                                {
+                                    "answer_id": 180098,
+                                    "document_id": 230637,
+                                    "question_id": 117472,
+                                    "text": "tüketimin ekolojik ayak izi",
+                                    "answer_start": 350,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Bir topluluk için kullanılan kaynakların üretilmesi için gereken coğrafi alana ne ad verilir?",
+                            "id": 117469,
+                            "answers": [
+                                {
+                                    "answer_id": 180095,
+                                    "document_id": 230637,
+                                    "question_id": 117469,
+                                    "text": "ekolojik ayak izi",
+                                    "answer_start": 119,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Bir kişi ya da topluluk için kullanılan kaynakların üretilmesi ve oluşan atığın giderilmesi için gereken coğrafi alana ekolojik ayak izi denir. Bir coğrafi bölgenin yenilenebilir doğal kaynakları üretme gücüne biyolojik kapasite denir. Bir kişi ya da bir topluluk tarafından tüketilen ürünlerin üretimi için kullanılan yenilenebilir doğal kaynaklara tüketimin ekolojik ayak izi denir. Tüketimin ekolojik ayak izi, biyolojik kapasiteyi aşıyorsa doğal kaynakların bir süre sonra yetersiz kalacağı anlamına gelir. Bir ülke ya da bir coğrafi bölgede sağlanan biyolojik kapasitenin kullanımına üretimin ekolojik ayak izi denir. Birey veya topluluk tarafından kullanılan, her mal ve hizmetin üretilmesi ve tüketilmesi için gereken toplam tatlı su hacmine su ayak izi denir.",
+                    "document_id": 230637
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Canlıların sahip oldukları özelliklerin dölden döle aktarılmasına ne ad verilir? ",
+                            "id": 117373,
+                            "answers": [
+                                {
+                                    "answer_id": 180001,
+                                    "document_id": 230622,
+                                    "question_id": 117373,
+                                    "text": "kalıtım",
+                                    "answer_start": 66,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Ebeveynlerden (ana baba) oğul döllere genlerle aktarılan özelliklere ne denir?",
+                            "id": 117374,
+                            "answers": [
+                                {
+                                    "answer_id": 180002,
+                                    "document_id": 230622,
+                                    "question_id": 117374,
+                                    "text": "kalıtsal özellikler",
+                                    "answer_start": 156,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kalıtsal özelliklerin nasıl ortaya çıktığını, oğul döllere nasıl aktarıldığını, genlerin yapısını ve işleyişini inceleyen bilim dalına ne ad verilir?",
+                            "id": 117375,
+                            "answers": [
+                                {
+                                    "answer_id": 180003,
+                                    "document_id": 230622,
+                                    "question_id": 117375,
+                                    "text": "genetik (kalıtım bilimi)",
+                                    "answer_start": 410,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Canlıların sahip oldukları özelliklerin dölden döle aktarılmasına kalıtım adı verilir. Ebeveynlerden (ana baba) oğul döllere genlerle aktarılan özelliklere kalıtsal özellikler denir. Kalıtsal özellikler, canlılar arasında benzerlik ve farklılıkların ortaya çıkmasını sağlar. Kalıtsal özelliklerin nasıl ortaya çıktığını, oğul döllere nasıl aktarıldığını, genlerin yapısını ve işleyişini inceleyen bilim dalına genetik (kalıtım bilimi) adı verilir. Mendel genetiğini kavrayabilmek için kalıtımla ilgili bazı terimlerin bilinmesi gerekmektedir.",
+                    "document_id": 230622
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Glikoliz sonucu oluşan pirüvik asidin enzim denetiminde gerçekleşen özel tepkimeler sonucu etil alkole dönüşmesi nasıl adlandırılır?",
+                            "id": 118193,
+                            "answers": [
+                                {
+                                    "answer_id": 181446,
+                                    "document_id": 230528,
+                                    "question_id": 118193,
+                                    "text": "Etil alkol fermantasyonu",
+                                    "answer_start": 0,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Glikolizin son ürünler evresinde kaç tane CO2 çıkışı gerçekleşir?",
+                            "id": 118196,
+                            "answers": [
+                                {
+                                    "answer_id": 181449,
+                                    "document_id": 230528,
+                                    "question_id": 118196,
+                                    "text": "2",
+                                    "answer_start": 230,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Etil alkol fermantasyonu sırasında oluşan hangi gazdan dolayı mayalanan hamur bir süre sonra kabarır?\n",
+                            "id": 118205,
+                            "answers": [
+                                {
+                                    "answer_id": 181458,
+                                    "document_id": 230528,
+                                    "question_id": 118205,
+                                    "text": "CO2",
+                                    "answer_start": 683,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Glikolizde kaç tane NADH molekülü elde edilir?",
+                            "id": 121315,
+                            "answers": [
+                                {
+                                    "answer_id": 184804,
+                                    "document_id": 230528,
+                                    "question_id": 121315,
+                                    "text": "2",
+                                    "answer_start": 279,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Glikolizde elde edilen hidrojenler, son ürünler evresinde tepkimelere katılarak ne üretilmesini sağlar?",
+                            "id": 121316,
+                            "answers": [
+                                {
+                                    "answer_id": 184805,
+                                    "document_id": 230528,
+                                    "question_id": 121316,
+                                    "text": "2 etil alkol",
+                                    "answer_start": 357,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Etil alkol fermantasyonu, glikoliz sonucu oluşan pirüvik asidin enzim denetiminde gerçekleşen özel tepkimeler sonucu etil alkole dönüşmesidir. Glikoliz evresinde bir glikozdan 2 pirüvik asit oluştuktan sonra son ürünler evresinde 2 CO2 çıkışı gerçekleşir. Glikolizde elde edilen 2 NADH molekülündeki hidrojenler, son ürünler evresinde tepkimelere katılarak 2 etil alkol üretilmesini sağlar (Görsel 2.23). Mayalar, birçok bakteri ve bazı bitki tohumları etil alkol fermantasyonu gerçekleştirir. Ekmek yapımında etil alkol fermantasyonu yapan maya mantarları kullanılmaktadır. Mayalanan hamurun bir süre sonra kabarmasının nedeni, gerçekleşen etil alkol fermantasyonu sırasında oluşan CO2 gazıdır.",
+                    "document_id": 230528
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Kanın pıhtılaşması için gereken bir ya da daha fazla proteinin eksikliğiyle ortaya çıkan kalıtsal hastalığa ne denir?",
+                            "id": 115945,
+                            "answers": [
+                                {
+                                    "answer_id": 177693,
+                                    "document_id": 213508,
+                                    "question_id": 115945,
+                                    "text": "Hemofili",
+                                    "answer_start": 353,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Eşey kromozomlarıyla dölden döle taşınan genlerin oluşturduğu karakterlere ne denir?",
+                            "id": 115943,
+                            "answers": [
+                                {
+                                    "answer_id": 177691,
+                                    "document_id": 213508,
+                                    "question_id": 115943,
+                                    "text": "eşeye bağlı karakterler",
+                                    "answer_start": 322,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Cinsiyeti belirleyen X ve Y kromozomları üzerinde yer alan genler ne olarak adlandırılır?",
+                            "id": 115942,
+                            "answers": [
+                                {
+                                    "answer_id": 177690,
+                                    "document_id": 213508,
+                                    "question_id": 115942,
+                                    "text": "eşeye bağlı genler",
+                                    "answer_start": 66,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Cinsiyeti belirleyen X ve Y kromozomları üzerinde yer alan genler eşeye bağlı genler olarak adlandırılır. Eşey kromozomları sadece cinsiyeti belirlemez. Eşey kromozomlarında cinsiyet dışındaki farklı özellikleri kontrol eden genler de taşınır. Eşey kromozomlarıyla dölden döle taşınan bu genlerin oluşturduğu karakterlere eşeye bağlı karakterler denir. Hemofili, kanın pıhtılaşması için gereken bir ya da daha fazla proteinin eksikliğiyle ortaya çıkan kalıtsal bir hastalıktır.",
+                    "document_id": 213508
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Yüksek enerjili elektronları alıp indirgenme ve yükseltgenme tepkimelerini gerçekleştiren molekül sistemi nasıl adlandırılır?",
+                            "id": 117772,
+                            "answers": [
+                                {
+                                    "answer_id": 180922,
+                                    "document_id": 230504,
+                                    "question_id": 117772,
+                                    "text": "elektron taşıma sistemi (ETS) ",
+                                    "answer_start": 108,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": " Organik moleküllerden ayrılan yüksek enerjili elektronların ETS aracılığıyla oksijene aktarılması sırasında kademeli olarak ATP sentezlenmesine ne ad verilir?",
+                            "id": 117773,
+                            "answers": [
+                                {
+                                    "answer_id": 180923,
+                                    "document_id": 230504,
+                                    "question_id": 117773,
+                                    "text": "oksidatif fosforilasyon ",
+                                    "answer_start": 289,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Bazı prokaryot canlıların inorganik maddeleri okside ederek elde ettikleri enerji ile inorganik maddelerden organik madde sentezlemelerine ne denir?",
+                            "id": 117786,
+                            "answers": [
+                                {
+                                    "answer_id": 180936,
+                                    "document_id": 230504,
+                                    "question_id": 117786,
+                                    "text": "kemosentez",
+                                    "answer_start": 613,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kemosentezde fotosentezden farklı olarak ışık enerjisi yerine ne kullanılır?",
+                            "id": 117787,
+                            "answers": [
+                                {
+                                    "answer_id": 180937,
+                                    "document_id": 230504,
+                                    "question_id": 117787,
+                                    "text": "kimyasal enerji",
+                                    "answer_start": 759,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Yüksek enerjili elektronları alıp indirgenme ve yükseltgenme tepkimelerini gerçekleştiren molekül sistemine elektron taşıma sistemi (ETS) denir. Organik moleküllerden ayrılan yüksek enerjili elektronların ETS aracılığıyla oksijene aktarılması sırasında kademeli olarak ATP sentezlenmesine oksidatif fosforilasyon denir. Bu tip fosforilasyon, ökaryot hücrelerin mitokondrileri ile bazı prokaryotların hücre zarının sitoplazmaya doğru yapmış olduğu kıvrımlarında gerçekleşir. Bazı prokaryot canlıların inorganik maddeleri okside ederek elde ettikleri enerji ile inorganik maddelerden organik madde sentezlemelerine kemosentez denir. Kemosentetik canlılar da oksidatif fosforilasyonla enerji üretir. Kemosentezde fotosentezden farklı olarak ışık enerjisi yerine kimyasal enerji kullanılır. Bu yüzden fotosentez sadece ışık varlığında gerçekleşirken kemosentez gece gündüz gerçekleşir.",
+                    "document_id": 230504
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Asitli bileşiklerin yeryüzüne yağış şeklinde düşmesine ne ad verilir?",
+                            "id": 117475,
+                            "answers": [
+                                {
+                                    "answer_id": 180101,
+                                    "document_id": 230638,
+                                    "question_id": 117475,
+                                    "text": "asit yağmurları",
+                                    "answer_start": 55,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Enerjinin atmosferdeki sera gazlarının etkisiyle tutulması nasıl adlandırılır?",
+                            "id": 117476,
+                            "answers": [
+                                {
+                                    "answer_id": 180102,
+                                    "document_id": 230638,
+                                    "question_id": 117476,
+                                    "text": "sera etkisi",
+                                    "answer_start": 339,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Sera gazları etkisiyle havanın ortalama sıcaklığının artışı ne olarak adlandırılmaktadır?",
+                            "id": 117477,
+                            "answers": [
+                                {
+                                    "answer_id": 180103,
+                                    "document_id": 230638,
+                                    "question_id": 117477,
+                                    "text": "küresel ısınma",
+                                    "answer_start": 420,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Akarsuların ve rüzgârların etkisiyle toprağın verimli üst kısmının aşınıp başka bir yere taşınmasına ne denir?",
+                            "id": 117479,
+                            "answers": [
+                                {
+                                    "answer_id": 180105,
+                                    "document_id": 230638,
+                                    "question_id": 117479,
+                                    "text": "erozyon",
+                                    "answer_start": 549,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Asitli bileşiklerin yeryüzüne yağış şeklinde düşmesine asit yağmurları denir. Atmosfer, yeryüzünü ısıtır ve belirli bir sıcaklık aralığında kalmasını sağlar. Güneşten gelen kısa dalga boylu ışınlar yeryüzünü ısıtırken ısınma etkisiyle uzun dalga boylu ışınlar atmosfere yansır. Enerjinin atmosferdeki sera gazlarının etkisiyle tutulmasına sera etkisi denir. Sera gazları etkisiyle havanın ortalama sıcaklığının artışına küresel ısınma adı verilir. Akarsuların ve rüzgârların etkisiyle toprağın verimli üst kısmının aşınıp başka bir yere taşınmasına erozyon denir.",
+                    "document_id": 230638
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Çoğu canlıda üreme organlarındaki eşey ana hücreleri, hangi kromozomları çiftler hȃlinde taşır?",
+                            "id": 117333,
+                            "answers": [
+                                {
+                                    "answer_id": 179788,
+                                    "document_id": 230619,
+                                    "question_id": 117333,
+                                    "text": "homolog",
+                                    "answer_start": 54,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Hangi tür hücreler 2n ile gösterilir?",
+                            "id": 117334,
+                            "answers": [
+                                {
+                                    "answer_id": 179790,
+                                    "document_id": 230619,
+                                    "question_id": 117334,
+                                    "text": "Diploit",
+                                    "answer_start": 131,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Gametler homolog kromozomlardan kaç tanesini taşır?",
+                            "id": 117335,
+                            "answers": [
+                                {
+                                    "answer_id": 179792,
+                                    "document_id": 230619,
+                                    "question_id": 117335,
+                                    "text": "sadece birini",
+                                    "answer_start": 231,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Gametler niçin homolog kromozomlardan sadece bir tanesini taşır?",
+                            "id": 117336,
+                            "answers": [
+                                {
+                                    "answer_id": 179793,
+                                    "document_id": 230619,
+                                    "question_id": 117336,
+                                    "text": "mayozla oluştuklarından",
+                                    "answer_start": 184,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Hangi tür hücreler n ile gösterilir?",
+                            "id": 117337,
+                            "answers": [
+                                {
+                                    "answer_id": 179794,
+                                    "document_id": 230619,
+                                    "question_id": 117337,
+                                    "text": "Haploit",
+                                    "answer_start": 310,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Çoğu canlıda üreme organlarındaki eşey ana hücreleri, homolog kromozomları çiftler hȃlinde taşır. Bu hücreler diploit hücrelerdir. Diploit hücre 2n ile gösterilir. Gametler genellikle mayozla oluştuklarından homolog kromozomlardan sadece birini taşır. Bir takım kromozom taşıyan hücrelere haploit hücre denir. Haploit hücre n ile gösterilir.",
+                    "document_id": 230619
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Suda çözündüğünde hidrojen iyonu veren bileşiklere nasıl adlandırılır?",
+                            "id": 117125,
+                            "answers": [
+                                {
+                                    "answer_id": 179199,
+                                    "document_id": 230537,
+                                    "question_id": 117125,
+                                    "text": "asit",
+                                    "answer_start": 51,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Suda çözündüğünde hidroksit iyonu veren bileşiklere ne denir?",
+                            "id": 117126,
+                            "answers": [
+                                {
+                                    "answer_id": 179200,
+                                    "document_id": 230537,
+                                    "question_id": 117126,
+                                    "text": "baz",
+                                    "answer_start": 115,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Asit ve bazın nötrleşme tepkimesi ile birleşmesi sonucu neler oluşur?",
+                            "id": 117127,
+                            "answers": [
+                                {
+                                    "answer_id": 179201,
+                                    "document_id": 230537,
+                                    "question_id": 117127,
+                                    "text": "tuz ve su",
+                                    "answer_start": 278,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Bitkiler tarafından fotosentezle üretilen glikozun hücre lökoplastlarında depolanmasıyla ne oluşur?",
+                            "id": 117128,
+                            "answers": [
+                                {
+                                    "answer_id": 179202,
+                                    "document_id": 230537,
+                                    "question_id": 117128,
+                                    "text": "Nişasta",
+                                    "answer_start": 296,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Nelerin nötrleşme tepkimesi sonucu tuz ve su oluşur?",
+                            "id": 117129,
+                            "answers": [
+                                {
+                                    "answer_id": 179203,
+                                    "document_id": 230537,
+                                    "question_id": 117129,
+                                    "text": "Asit ve bazın",
+                                    "answer_start": 222,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Bakteri, arke, mantar ve hayvanlar tarafından sentezlenen depo polisakkarit çeşidi nedir?",
+                            "id": 117130,
+                            "answers": [
+                                {
+                                    "answer_id": 179204,
+                                    "document_id": 230537,
+                                    "question_id": 117130,
+                                    "text": "Glikojen",
+                                    "answer_start": 402,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Suda çözündüğünde hidrojen iyonu veren bileşiklere asit denir. Suda çözündüğünde hidroksit iyonu veren bileşiklere baz denir. Sülfürik asit ve hidroklorik asit, aside, sodyum hidroksit ve potasyum hidroksit baza örnektir. Asit ve bazın nötrleşme tepkimesi ile birleşmesi sonucu tuz ve su oluşur. Nişasta, bitkiler tarafından fotosentezle üretilen glikozun hücre lökoplastlarında depolanmasıyla oluşur. Glikojen bakteri, arke, mantar ve hayvanlar tarafından sentezlenen depo polisakkarit çeşididir.",
+                    "document_id": 230537
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Hastalık yapan bakterilere ne denir?",
+                            "id": 117094,
+                            "answers": [
+                                {
+                                    "answer_id": 179168,
+                                    "document_id": 230478,
+                                    "question_id": 117094,
+                                    "text": "patojen bakteriler",
+                                    "answer_start": 27,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Hangi bakteriler organik atıkları inorganik maddelere çevirerek doğadaki madde döngüsünde rol alırlar?",
+                            "id": 117095,
+                            "answers": [
+                                {
+                                    "answer_id": 179169,
+                                    "document_id": 230478,
+                                    "question_id": 117095,
+                                    "text": "Saprofit",
+                                    "answer_start": 159,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Canlıların dış görünüşlerine ve yaşadıkları ortamlara bakılarak yapılan sınıflandırmaya ne ad verilir?",
+                            "id": 117096,
+                            "answers": [
+                                {
+                                    "answer_id": 179170,
+                                    "document_id": 230478,
+                                    "question_id": 117096,
+                                    "text": "Yapay sınıflandırma",
+                                    "answer_start": 267,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Hastalık yapan bakterilere patojen bakteriler denir. Oksijenli solunum yapan bakterilerde solunum enzimleri mezozom denilen yapılarda ve sitoplazmada bulunur. Saprofit bakteriler organik atıkları inorganik maddelere çevirerek doğadaki madde döngüsünde görev alırlar. Yapay sınıflandırma canlıların dış görünüşlerine ve yaşadıkları ortamlara bakılarak yapılır.",
+                    "document_id": 230478
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Klorofil taşıyan canlıların ışık enerjisini kullanarak inorganik maddelerden organik madde sentezlemelerine ne ad verilir?",
+                            "id": 117801,
+                            "answers": [
+                                {
+                                    "answer_id": 180951,
+                                    "document_id": 230506,
+                                    "question_id": 117801,
+                                    "text": "fotosentez",
+                                    "answer_start": 108,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "İnorganik maddelerden organik madde sentezleyen canlılar nasıl adlandırılır?",
+                            "id": 117802,
+                            "answers": [
+                                {
+                                    "answer_id": 180952,
+                                    "document_id": 230506,
+                                    "question_id": 117802,
+                                    "text": "ototrof canlılar",
+                                    "answer_start": 473,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Klorofil taşıyan canlıların ışık enerjisini kullanarak inorganik maddelerden organik madde sentezlemelerine ne ad verilir?",
+                            "id": 117795,
+                            "answers": [
+                                {
+                                    "answer_id": 180945,
+                                    "document_id": 230506,
+                                    "question_id": 117795,
+                                    "text": "fotosentez",
+                                    "answer_start": 108,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Yeryüzündeki canlıların büyük bir kısmı, enerji ihtiyaçlarını karşılamak için doğrudan ya da dolaylı olarak neye bağımlıdır?",
+                            "id": 117796,
+                            "answers": [
+                                {
+                                    "answer_id": 180946,
+                                    "document_id": 230506,
+                                    "question_id": 117796,
+                                    "text": "fotosenteze",
+                                    "answer_start": 391,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "İnorganik maddelerden organik madde sentezleyen canlılara ne denir?",
+                            "id": 117797,
+                            "answers": [
+                                {
+                                    "answer_id": 180947,
+                                    "document_id": 230506,
+                                    "question_id": 117797,
+                                    "text": "ototrof canlılar",
+                                    "answer_start": 473,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Organik madde sentezi sırasında ışık enerjisini kullanan ototroflara ne denir?",
+                            "id": 117798,
+                            "answers": [
+                                {
+                                    "answer_id": 180948,
+                                    "document_id": 230506,
+                                    "question_id": 117798,
+                                    "text": "fotoototroflar",
+                                    "answer_start": 570,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Organik besinleri sentezleyemeyen ve dışardan hazır olarak alan canlılara ne ad verilir?",
+                            "id": 117799,
+                            "answers": [
+                                {
+                                    "answer_id": 180949,
+                                    "document_id": 230506,
+                                    "question_id": 117799,
+                                    "text": "heterotrof",
+                                    "answer_start": 666,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Besin ihtiyaçlarını ototroflardan ya da diğer heterotroflardan karşılayan canlılara ne denir?",
+                            "id": 117800,
+                            "answers": [
+                                {
+                                    "answer_id": 180950,
+                                    "document_id": 230506,
+                                    "question_id": 117800,
+                                    "text": "Heterotrof",
+                                    "answer_start": 693,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Organik madde sentezi sırasında ışık enerjisini kullanan ototroflara ne denir?",
+                            "id": 117803,
+                            "answers": [
+                                {
+                                    "answer_id": 180953,
+                                    "document_id": 230506,
+                                    "question_id": 117803,
+                                    "text": "fotoototroflar",
+                                    "answer_start": 570,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": " Organik besinleri sentezleyemeyen ve dışardan hazır olarak alan canlılara ne ad verilir?",
+                            "id": 117804,
+                            "answers": [
+                                {
+                                    "answer_id": 180954,
+                                    "document_id": 230506,
+                                    "question_id": 117804,
+                                    "text": "heterotrof canlılar",
+                                    "answer_start": 666,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Klorofil taşıyan canlıların ışık enerjisini kullanarak inorganik maddelerden organik madde sentezlemelerine fotosentez denir. Mor kükürt bakterileri gibi fotosentetik bakteriler, siyanobakteriler, bazı arkeler, öglena ve alg gibi protistler ve bitkiler fotosentez yapan canlılardır. Yeryüzündeki canlıların büyük bir kısmı, enerji ihtiyaçlarını karşılamak için doğrudan ya da dolaylı olarak fotosenteze bağımlıdır. İnorganik maddelerden organik madde sentezleyen canlılara ototrof canlılar denir. Organik madde sentezi sırasında ışık enerjisini kullanan ototroflara ise fotoototroflar denir. Organik besinleri sentezleyemeyen ve dışardan hazır olarak alan canlılara heterotrof canlılar denir. Heterotrof canlılar, besin ihtiyaçlarını ototroflardan ya da diğer heterotroflardan karşılar. Dolayısıyla fotosentez, ekosistemlerde besin ve enerji akışının temelini oluşturan en önemli biyolojik olaydır. Bitkiler fotosentez için gerekli olan su ve mineralleri, kökleri ile topraktan alırken CO2 ’yi ise atmosferden alır. Fotosentezde oluşan O2 ’nin fazlası atmosfere verilir. Fotosentez büyük oranda okyanus, deniz, akarsu ve göllerde yaşayan milyonlarca fitoplankton tarafından gerçekleştirilmektedir.",
+                    "document_id": 230506
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Canlının sahip olduğu yapılanın zamanla değişerek fonksiyonel olgunluğa gelmesi ne olarak adlandırılır?",
+                            "id": 116880,
+                            "answers": [
+                                {
+                                    "answer_id": 178867,
+                                    "document_id": 230455,
+                                    "question_id": 116880,
+                                    "text": "Gelişme",
+                                    "answer_start": 147,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Tek hücreli canlılarda sitoplazmanın hacimce artmasına ne ad verilir?",
+                            "id": 116879,
+                            "answers": [
+                                {
+                                    "answer_id": 178866,
+                                    "document_id": 230455,
+                                    "question_id": 116879,
+                                    "text": "Büyüme",
+                                    "answer_start": 0,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Büyüme, tek hücreli canlılarda sitoplazmanın hacimce artması ile çok hücreli canlılarda ise hücre bölünmesi ve hücre hacminin artması sonucu olur. Gelişme ise canlının sahip olduğu yapılanın zamanla değişerek fonksiyonel olgunluğa gelmesidir. Bir çocuğun boyca uzaması büyümeye, yürümeye başlaması ise gelişmeye örnek olarak verilebilir.",
+                    "document_id": 230455
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Hangi organizmalar inorganik maddeleri organik maddelere çevirerek kendi besinlerini sentezler?",
+                            "id": 116912,
+                            "answers": [
+                                {
+                                    "answer_id": 178899,
+                                    "document_id": 230468,
+                                    "question_id": 116912,
+                                    "text": "Ototrof",
+                                    "answer_start": 0,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kompleks moleküllerin daha basit moleküllere yıkılarak enerjinin sağlandığı olaylara ne ad verilir?",
+                            "id": 116913,
+                            "answers": [
+                                {
+                                    "answer_id": 178900,
+                                    "document_id": 230468,
+                                    "question_id": 116913,
+                                    "text": "katabolizma",
+                                    "answer_start": 186,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Prokaryot ve ökaryot canlıların tamamında hangi organel bulunur?",
+                            "id": 116914,
+                            "answers": [
+                                {
+                                    "answer_id": 178901,
+                                    "document_id": 230468,
+                                    "question_id": 116914,
+                                    "text": "ribozom",
+                                    "answer_start": 253,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Ototrof organizmalar inorganik maddeleri organik maddelere çevirerek kendi besinlerini sentezlerler. Kompleks moleküllerin daha basit moleküllere yıkılarak enerjinin sağlandığı olaylara katabolizma adı verilir. Prokaryot ve ökaryot canlıların tamamında ribozom organeli bulunur.",
+                    "document_id": 230468
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Tekrarlanan bantlarda aktin ve miyozin filamentler, belirli bir düzen içinde konumlanarak neyi oluşturur?",
+                            "id": 117740,
+                            "answers": [
+                                {
+                                    "answer_id": 180847,
+                                    "document_id": 230989,
+                                    "question_id": 117740,
+                                    "text": "kasın sarkomer adı verilen kasılma birimlerini",
+                                    "answer_start": 90,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Motor sinir hücresiyle kas hücresi arasındaki bağlantı bölgesi ne olarak adlandırılır?",
+                            "id": 117741,
+                            "answers": [
+                                {
+                                    "answer_id": 180849,
+                                    "document_id": 230989,
+                                    "question_id": 117741,
+                                    "text": "motor uç plak",
+                                    "answer_start": 300,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Motor sinir hücresiyle neresi arasındaki bağlantı bölgesi motor uç plak olarak adlandırılır?",
+                            "id": 117742,
+                            "answers": [
+                                {
+                                    "answer_id": 180850,
+                                    "document_id": 230989,
+                                    "question_id": 117742,
+                                    "text": "kas hücresi",
+                                    "answer_start": 260,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Neresi ile kas hücresi arasındaki bağlantı bölgesi motor uç plak olarak adlandırılır?",
+                            "id": 117743,
+                            "answers": [
+                                {
+                                    "answer_id": 180851,
+                                    "document_id": 230989,
+                                    "question_id": 117743,
+                                    "text": "Motor sinir hücresiyle",
+                                    "answer_start": 237,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Çizgili kasların dinlenme durumunda hafif kasılı ve gergin olma durumuna ne ad verilir?",
+                            "id": 117744,
+                            "answers": [
+                                {
+                                    "answer_id": 180852,
+                                    "document_id": 230989,
+                                    "question_id": 117744,
+                                    "text": "kas tonusu",
+                                    "answer_start": 408,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Hangi kasların dinlenme durumunda hafif kasılı ve gergin olma durumuna kas tonusu adı verilir?",
+                            "id": 117745,
+                            "answers": [
+                                {
+                                    "answer_id": 180853,
+                                    "document_id": 230989,
+                                    "question_id": 117745,
+                                    "text": "Çizgili",
+                                    "answer_start": 335,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Neler kasların uyarılmasını sağlar?",
+                            "id": 117746,
+                            "answers": [
+                                {
+                                    "answer_id": 180854,
+                                    "document_id": 230989,
+                                    "question_id": 117746,
+                                    "text": "motor lifler",
+                                    "answer_start": 191,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kasın kasılma sonrası normal durumuna geri dönmesine ne denir? ",
+                            "id": 117747,
+                            "answers": [
+                                {
+                                    "answer_id": 180855,
+                                    "document_id": 230989,
+                                    "question_id": 117747,
+                                    "text": "gevşeme evresi",
+                                    "answer_start": 530,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Neler belirli bir düzen içinde konumlanarak kasın sarkomer adı verilen kasılma birimlerini oluşturur?",
+                            "id": 117748,
+                            "answers": [
+                                {
+                                    "answer_id": 180856,
+                                    "document_id": 230989,
+                                    "question_id": 117748,
+                                    "text": "aktin ve miyozin filamentler",
+                                    "answer_start": 22,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Tekrarlanan bantlarda aktin ve miyozin filamentler, belirli bir düzen içinde konumlanarak kasın sarkomer adı verilen kasılma birimlerini oluşturur.Motor sinirler motor liflerini oluşturur ve motor lifler de kasların uyarılmasını sağlar. Motor sinir hücresiyle kas hücresi arasındaki bağlantı bölgesi motor uç plak olarak adlandırılır. Çizgili kasların dinlenme durumunda hafif kasılı ve gergin olma durumuna kas tonusu denir. Kas tonusu bilincin açık olduğu durumda mevcuttur. Kasın kasılma sonrası normal durumuna geri dönmesine gevşeme evresi denir. ",
+                    "document_id": 230989
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Sindirim kanalında sindirilmiş besinlerin mukozadaki epitel hücreleri tarafından alınarak kana veya lenfe verilmesine ne ad verilir?",
+                            "id": 118258,
+                            "answers": [
+                                {
+                                    "answer_id": 181511,
+                                    "document_id": 230994,
+                                    "question_id": 118258,
+                                    "text": "emilim",
+                                    "answer_start": 118,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Makat bölgesinde toplardamar genişlemesiyle oluşan bir rahatsızlık nasıl adlandırılır?",
+                            "id": 118259,
+                            "answers": [
+                                {
+                                    "answer_id": 181512,
+                                    "document_id": 230994,
+                                    "question_id": 118259,
+                                    "text": "Hemoroit",
+                                    "answer_start": 310,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Mide ile yemek borusu arasındaki sfinkter kaslarının görevini yapamamasından mide asidinin yemek borusuna geri kaçışına ne denir?",
+                            "id": 118260,
+                            "answers": [
+                                {
+                                    "answer_id": 181513,
+                                    "document_id": 230994,
+                                    "question_id": 118260,
+                                    "text": "Reflü",
+                                    "answer_start": 390,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Sindirim kanalında sindirilmiş besinlerin mukozadaki epitel hücreleri tarafından alınarak kana veya lenfe verilmesine emilim denilir. İnce bağırsaktan emilen yağ asitleri ve gliserol, emilimden sonra burada birleştirilerek yağa dönüştürülür. Yağlar kolesterol ve özel proteinlerle sarılıp şilomikrona dönüşür. Hemoroit makat bölgesinde toplardamar genişlemesiyle oluşan bir rahatsızlıktır. Reflü Mide ile yemek borusu arasındaki sfinkter kaslarının görevini yapamamasından mide asidinin yemek borusuna geri kaçışıdır.",
+                    "document_id": 230994
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "DNA sarmal zincirlerini oluşturan nükleotitlerde kaç kısım bulunur?",
+                            "id": 119127,
+                            "answers": [
+                                {
+                                    "answer_id": 181942,
+                                    "document_id": 228971,
+                                    "question_id": 119127,
+                                    "text": "üç",
+                                    "answer_start": 49,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "DNA’yı oluşturan nükleotitlerde bulunan azotlu organik bazlar hangileridir?",
+                            "id": 119128,
+                            "answers": [
+                                {
+                                    "answer_id": 181943,
+                                    "document_id": 228971,
+                                    "question_id": 119128,
+                                    "text": "adenin (A), guanin (G), sitozin (C) ve timin (T) ",
+                                    "answer_start": 218,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Hangi organik bazlar çift halkalı pürin bazları grubunda yer alır?",
+                            "id": 121246,
+                            "answers": [
+                                {
+                                    "answer_id": 184729,
+                                    "document_id": 228971,
+                                    "question_id": 121246,
+                                    "text": "Adenin ve guanin",
+                                    "answer_start": 272,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Hangi bazlar tek halkalı pirimidin bazları grubundadır?",
+                            "id": 121247,
+                            "answers": [
+                                {
+                                    "answer_id": 184730,
+                                    "document_id": 228971,
+                                    "question_id": 121247,
+                                    "text": "Sitozin ve timin",
+                                    "answer_start": 336,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "DNA sarmal zincirlerini oluşturan nükleotitlerde üç kısım bulunur. Bunlar; azotlu organik bir baz, beş karbonlu bir şeker (pentoz) ve bir fosfat grubudur. DNA’yı oluşturan nükleotitlerde bulunan azotlu organik bazlar; adenin (A), guanin (G), sitozin (C) ve timin (T) dir. Adenin ve guanin, çift halkalı pürin bazları grubunda yer alır. Sitozin ve timin ise tek halkalı pirimidin bazları grubundandır (Görsel 1.10).",
+                    "document_id": 228971
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Bakteriler glikozun fazlasını glikojen olarak depolama özellikleri ile hangi hücrelere benzerler?",
+                            "id": 117100,
+                            "answers": [
+                                {
+                                    "answer_id": 179174,
+                                    "document_id": 230485,
+                                    "question_id": 117100,
+                                    "text": "hayvansal",
+                                    "answer_start": 71,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Hangi canlılar inorganik maddelerin oksidasyonundan elde ettikleri enerjiyi kullanarak organik madde sentezler?",
+                            "id": 117101,
+                            "answers": [
+                                {
+                                    "answer_id": 179175,
+                                    "document_id": 230485,
+                                    "question_id": 117101,
+                                    "text": "Kemoototrof",
+                                    "answer_start": 174,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Bakteriler glikozun fazlasını glikojen olarak depolama özellikleri ile hayvansal hücrelere benzerler. Zorunlu anaerob bakteriler oksijenin bulunduğu ortamlarda yaşayamazlar. Kemoototrof canlılar inorganik maddelerin oksidasyonundan elde ettikleri enerjiyi kullanarak organik madde sentezler.",
+                    "document_id": 230485
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Doğada biyolojik dengenin korunması, ortamlardaki atık madddelerin parçalanarak çevre kirliliğinin önlenmesinde görev alan organizmalara ne ad verilir?",
+                            "id": 117218,
+                            "answers": [
+                                {
+                                    "answer_id": 179460,
+                                    "document_id": 230521,
+                                    "question_id": 117218,
+                                    "text": "Kemosentetik",
+                                    "answer_start": 0,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Kemosentetik organizmalar; doğada biyolojik dengenin korunması, ortamlardaki atık madddelerin parçalanarak çevre kirliliğinin önlenmesinde görev alır. Kemosentetik arkelerin büyük bir kısmı; yüksek tuzluluk, düşük oksijen yoğunluğu, yüksek sıcaklık, yüksek ya da düşük pH gibi zor koşullarda yaşar. Bu canlılardan elde edilen zor koşullara dayanıklı enzimler, biyolojik ve ekonomik açıdan oldukça önemlidir. Bu enzimler, metallerin etkisiyle kirlenmiş suların kullanılabilir hâle getirilmesinde, boya endüstrisinde ve arıtma tesislerinde atık suların temizlenmesinde kullanılır (Görsel 2.16). Ayrıca kalitesi düşük metal cevherlerin zenginleştirilmesinde de bu enzimlerden yararlanılır.",
+                    "document_id": 230521
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "ATP molekülünün yapısından ne bulunur? ",
+                            "id": 118224,
+                            "answers": [
+                                {
+                                    "answer_id": 181477,
+                                    "document_id": 230494,
+                                    "question_id": 118224,
+                                    "text": "adenin bazı, beş karbonlu riboz şekeri ve üç tane fosfat grubu",
+                                    "answer_start": 27,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Adenozin ve bir fosfatın birleşmesi ile oluşan yapıya ne ad verilir?",
+                            "id": 118230,
+                            "answers": [
+                                {
+                                    "answer_id": 181483,
+                                    "document_id": 230494,
+                                    "question_id": 118230,
+                                    "text": "adenozin monofosfat (AMP)",
+                                    "answer_start": 313,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "ATP molekülünün yapısında; adenin bazı, beş karbonlu riboz şekeri ve üç tane fosfat grubu bulunur. Adenin bazı ve riboz şekeri arasında glikozit bağı kurulur, oluşan yeni yapı adenozin adını alır. Adenozin molekülüne fosfoester bağıyla fosfat grubu bağlanır. Adenozin ve bir fosfatın birleşmesi ile oluşan yapıya adenozin monofosfat (AMP), iki fosfatın birleşmesi ile oluşan yapıya adenozin difosfat (ADP), üç fosfatın birleşmesi ile oluşan yapıya adenozin trifosfat (ATP) denir. ATP, yapı olarak RNA molekülündeki adenin nükleotide benzer. Tek farkı, yapısında bir yerine üç tane fosfat grubu bulundurmasıdır (Görsel 2.2).",
+                    "document_id": 230494
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Tam bir zincir oluşumunu sağlayan enzime ne denir?",
+                            "id": 117192,
+                            "answers": [
+                                {
+                                    "answer_id": 179434,
+                                    "document_id": 228990,
+                                    "question_id": 117192,
+                                    "text": "DNA ligaz",
+                                    "answer_start": 237,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "DNA replikasyonu sırasında oluşturulan DNA parçacıkları arasındaki boşluklar, DNA ligaz enzimleriyle kapatılır. Bu enzim, birbirlerini takip eden DNA parçacıklarını fosfodiester bağıyla birleştirir. Bağ kurulması sırasında ATP harcanır. DNA ligaz, tam bir zincir oluşumunu sağlayan enzimdir. Nükleotitlerin tamamı eşlendiğinde hücre içindeki bir DNA’ dan iki DNA oluşur. Replikasyon sonucu oluşan DNA moleküllerinin her birinde eski DNA’ya ait (ana DNA) bir zincir ve yeni sentezlenmiş zincir bulunur.",
+                    "document_id": 228990
+                }
+            ]
+        }
+    ]
+}
